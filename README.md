@@ -11,7 +11,7 @@
 
 <main display="flex">
 <div class="img">
-<img width="350px" align="right" src="./assets/coding.gif" alt="Coding"></div>
+<img width="400px" align="right" src="./assets/coding.gif" alt="Coding"></div>
 
 <div align="left">
 
