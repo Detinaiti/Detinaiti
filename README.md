@@ -14,7 +14,9 @@
 <img width="400px" align="right" src="./assets/coding.gif" alt="Coding"></div>
 
 <div align="left">
-<br>
+
+
+
 * 🌍  I'm based in Tatuí, SP, Brazil
 * 💻  You can contact me at [giovanicrispim2@gmail.com](mailto:giovanicrispim2@gmail.com)
 * ✉️  I'm currently studying at [Etec Salles Gomes](https://www.cps.sp.gov.br/etecs/etec-salles-gomes/)
