@@ -9,7 +9,7 @@
 
 <main display="flex">
 <div class="img">
-<img width="450px" align="right" src="./assets/coding.gif" alt="Coding"></div>
+<img width="350px" align="right" src="./assets/coding.gif" alt="Coding"></div>
 
 <div align="left">
 
@@ -26,4 +26,4 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="./assets/images/css.png" width="40" height="40" alt="Css" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/images/js.png" width="40" height="40" alt="Javascript" /></a>
 <a href="https://nodejs.org/en/about/" target="_blank" rel="noreferrer"><img src="./assets/images/node.png" width="40" height="40" alt="NodeJS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="./assets/" width="40" height="40" alt="Bootstrap" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="./assets/images/boots.png" width="40" height="40" alt="Bootstrap" /></a>
