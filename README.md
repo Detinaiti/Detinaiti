@@ -4,7 +4,6 @@
 <h2>Web Development Student <br></h2>
 
 
-
 <p>I always liked the technology area. Always looking for new areas and technologies. I am studying a Systems Development technician. I like the front-end, but I explore everything in my reach</p>
 </div>
 
