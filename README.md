@@ -31,6 +31,6 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="./assets/images/boots.png" width="40" height="40" alt="Bootstrap" align="center"/></a>
 <br><br>
 <h3>Studying</h3>
-<a href="https://www.typescriptlang.org/" rel="nofollow"><img src="./assets/images/ts.png" width="40" height="40" alt="Typescript"></a>
+<a href="https://www.typescriptlang.org/" rel="nofollow"><img src="./assets/images/TS.png" width="40" height="40" alt="Typescript"></a>
 <a href="https://www.php.net/" rel="nofollow"><img src="./assets/images/php.png" width="40" height="40" alt="PHP"></a>
 <a href="https://www.mysql.com" rel="nofollow"><img src="./assets/images/sql.png" width="40" height="40" alt="Mysql"></a>
