@@ -25,7 +25,7 @@
 * ⚡  ***Never forget to have fun***!
 <br>
 
-<h3>Skills:</h3>
+<h3 align="center">Skills:</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="./assets/images/html.png" width="40" height="40" alt="HTML5" align="top"/>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="./assets/images/css.png" width="40" height="40" alt="Css" align="center"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/images/js.png" width="40" height="40" alt="Javascript" align="center"/></a>
