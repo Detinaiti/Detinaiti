@@ -23,9 +23,14 @@
 * ⚡  ***Never forget to have fun***!
 <br>
 
-<h3>Skills</h3>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="./assets/images/html.png" width="40" height="40" alt="HTML5" />
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="./assets/images/css.png" width="40" height="40" alt="Css" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/images/js.png" width="40" height="40" alt="Javascript" /></a>
-<a href="https://nodejs.org/en/about/" target="_blank" rel="noreferrer"><img src="./assets/images/node.png" width="40" height="40" alt="NodeJS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="./assets/images/boots.png" width="40" height="40" alt="Bootstrap" /></a>
+<h3>Skills:</h3>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="./assets/images/html.png" width="40" height="40" alt="HTML5" align="top"/>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="./assets/images/css.png" width="40" height="40" alt="Css" align="center"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/images/js.png" width="40" height="40" alt="Javascript" align="center"/></a>
+<a href="https://nodejs.org/en/about/" target="_blank" rel="noreferrer"><img src="./assets/images/node.png" width="40" height="40" alt="NodeJS" align="center"/></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="./assets/images/boots.png" width="40" height="40" alt="Bootstrap" align="center"/></a>
+<br><br>
+<h3>Studying</h3>
+<a href="https://www.typescriptlang.org/" rel="nofollow"><img src="./assets/images/ts.png" width="40" height="40" alt="Typescript"></a>
+<a href="https://www.php.net/" rel="nofollow"><img src="./assets/images/php.png" width="40" height="40" alt="PHP"></a>
+<a href="https://www.mysql.com" rel="nofollow"><img src="./assets/images/sql.png" width="40" height="40" alt="Mysql"></a>
