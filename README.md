@@ -4,7 +4,7 @@
 <h3 align="center">Web Development Student <br></h3>
 
 
-<p>I always liked the technology area. Always looking for new areas and technologies. 
+<p>I always liked the technology area. Always looking for new areas and technologies. <br>
 I am studying a Systems Development technician. I like the front-end, but I explore everything in my reach</p>
 </div>
 
