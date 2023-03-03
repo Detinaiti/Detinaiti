@@ -36,4 +36,9 @@
 <a href="https://www.mysql.com" rel="nofollow"><img src="./assets/images/sql.png" width="40" height="40" alt="Mysql"></a>
 <a href="https://sass-lang.com/" rel="nofollow"><img src="./assets/images/sass.png" width="40" height="40" alt="Sass"></a>
 <a href="https://pt-br.reactjs.org/" rel="nofollow"><img src="./assets/images/react.svg" width="40" height="40" alt="React"></a>
+<br><br>
+
+![](https://github-readme-stats.vercel.app/api?username=Detinaiti&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Detinaiti&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Detinaiti&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
