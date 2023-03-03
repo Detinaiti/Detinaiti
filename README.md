@@ -35,5 +35,5 @@
 <a href="https://www.php.net/" rel="nofollow"><img src="./assets/images/php.png" width="40" height="40" alt="PHP"></a>
 <a href="https://www.mysql.com" rel="nofollow"><img src="./assets/images/sql.png" width="40" height="40" alt="Mysql"></a>
 <a href="https://sass-lang.com/" rel="nofollow"><img src="./assets/images/sass.png" width="40" height="40" alt="Sass"></a>
-<a href="https://pt-br.reactjs.org/" rel="nofollow"><img src="./assets/images/react.png" width="40" height="40" alt="React"></a>
+<a href="https://pt-br.reactjs.org/" rel="nofollow"><img src="./assets/images/react.svg" width="40" height="40" alt="React"></a>
 
