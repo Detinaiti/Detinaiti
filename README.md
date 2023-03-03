@@ -2,10 +2,11 @@
 <h1 align="center">Hi :wave: My name is Giovani Crispim</h1>
 ================================
 <h2>Web Development Student</h2>
------------------------
+================================
 <p>I always liked the technology area. Always looking for new areas and technologies. I am studying a Systems Development technician. I like the front-end, but I explore everything in my reach</p>
 </div>
-<br>
+
+<br><br>
 
 <main display="flex">
 <div class="img">
