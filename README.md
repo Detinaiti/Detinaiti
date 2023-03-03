@@ -41,7 +41,7 @@ I always liked the technology area. Always looking for new areas and technologie
 <a href="https://pt-br.reactjs.org/" rel="nofollow"><img src="./assets/images/react.svg" width="40" height="40" alt="React"></a>
 <br><br><br>
 
-![](https://github-readme-stats.vercel.app/api?username=Detinaiti&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=Detinaiti&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Detinaiti&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
 
 
 
