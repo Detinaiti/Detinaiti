@@ -12,7 +12,7 @@ I always liked the technology area. Always looking for new areas and technologie
 
 <main display="flex">
 <div class="img">
-<img width="400px" align="right" src="./assets/coding.gif" alt="Coding"></div>
+<img width="400px" align="right" src="./assets/coding.gif" alt="Coding" style="border-radius:10px"></div>
 
 <div align="left">
 
